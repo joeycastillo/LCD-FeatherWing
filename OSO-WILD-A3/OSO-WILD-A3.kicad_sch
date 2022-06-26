@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid bb4f0314-c44c-4dda-b85c-537120eaae9a)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "Wing with Liquid Crystal Display")
+    (date "2022-03-05")
+    (rev "00")
+    (company "Oddly Specific Objects")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

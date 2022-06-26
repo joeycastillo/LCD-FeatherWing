@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "LCD_Driver")(type "KiCad")(uri "${KIPRJMOD}/LCD_Driver.kicad_sym")(options "")(descr ""))
+)
