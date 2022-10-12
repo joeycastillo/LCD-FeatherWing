@@ -1,4 +1,13 @@
+[![OSO Logo ](https://cldup.com/NrFfLkzhjO.png)](https://www.oddlyspecificobjects.com/products/lcdwing/ "oddlyspecificobjects")
+
+
 # FeatherWing with Liquid Crystal Display
+
+<a href="https://www.adafruit.com/product/5581"><img src="assets/5581-01.jpg?raw=true" width="500px"><br/>
+
+<a href="http://www.adafruit.com/products/5581"><img src="assets/5581-02.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
+
 
 This repository contains design files for the LCD FeatherWing — [which is available on Tindie!](https://www.tindie.com/products/joeycastillo/lcd-featherwing/) — and LCD FeatherWing test jig.
 
