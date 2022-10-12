@@ -1,6 +1,3 @@
-[![OSO Logo ](https://cldup.com/NrFfLkzhjO.png)](https://www.oddlyspecificobjects.com/products/lcdwing/ "oddlyspecificobjects")
-
-
 # FeatherWing with Liquid Crystal Display
 
 <a href="https://www.adafruit.com/product/5581"><img src="assets/5581-01.jpg?raw=true" width="500px"><br/>
