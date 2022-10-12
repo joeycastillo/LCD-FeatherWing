@@ -1,5 +1,11 @@
 # FeatherWing with Liquid Crystal Display
 
+<a href="https://www.adafruit.com/product/5581"><img src="assets/5581-01.jpg?raw=true" width="500px"><br/>
+
+<a href="http://www.adafruit.com/products/5581"><img src="assets/5581-02.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
+
+
 This repository contains design files for the LCD FeatherWing — [which is available on Tindie!](https://www.tindie.com/products/joeycastillo/lcd-featherwing/) — and LCD FeatherWing test jig.
 
 PLEASE NOTE: The FeatherWing schematics and PCB designs, as well as the test jig and even the LCD data sheet and artwork are all open source hardware covered by the CC-BY-SA 4.0 license. You should feel absolute freedom to remix and change them, or even make these objects on your own for any commercial or noncommercial purpose.
